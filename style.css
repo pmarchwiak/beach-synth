@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button {
+  border-width:1px;
+  font-family: Courier New, monospace;
+  font-size:8px;
+}
